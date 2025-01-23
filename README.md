@@ -74,7 +74,10 @@ The application provides the following outputs:
 ## Results Screenshots
 
 ### Console Output
-![Console Output](path-to-your-console-screenshot.png)
+![Console Output 1](Static/Simulation_GUI_1.jpg)
+
+![Console Output 2](Static/Simulation_GUI_2.jpg)
+
 
 ### GUI in Action
 ![GUI Screenshot](path-to-your-gui-screenshot.png)
