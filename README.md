@@ -74,10 +74,14 @@ The application provides the following outputs:
 ## Results Screenshots
 
 ### GUI Output
-![GUI Output 1](Static/Simulation_GUI_1.jpg)
 
-![GUI Output 2](Static/Simulation_GUI_2.png)
+<div>
+  <img src="Static/Simulation_GUI_1.jpg" alt="GUI Output 1" width="500" height="300">
+</div>
 
+<div>
+  <img src="Static/Simulation_GUI_2.png" alt="GUI Output 2" width="500" height="300">
+</div>
 
 ### Console in Action
 
