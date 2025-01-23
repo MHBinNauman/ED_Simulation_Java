@@ -80,7 +80,11 @@ The application provides the following outputs:
 
 
 ### Console in Action
-![Console Screenshot](Static/ED_Simulation.gif)
+
+<div>
+  <img src="Static/ED_Simulation.gif" alt="Console Screenshot" width="500" height="300">
+</div>
+
 
 ---
 
