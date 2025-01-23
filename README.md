@@ -73,14 +73,14 @@ The application provides the following outputs:
 
 ## Results Screenshots
 
-### Console Output
-![Console Output 1](Static/Simulation_GUI_1.jpg)
+### GUI Output
+![GUI Output 1](Static/Simulation_GUI_1.jpg)
 
-![Console Output 2](Static/Simulation_GUI_2.png)
+![GUI Output 2](Static/Simulation_GUI_2.png)
 
 
-### GUI in Action
-![GUI Screenshot](path-to-your-gui-screenshot.png)
+### Console in Action
+![Console Screenshot](Static/ED_Simulation.gif)
 
 ---
 
