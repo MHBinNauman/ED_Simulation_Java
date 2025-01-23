@@ -76,7 +76,7 @@ The application provides the following outputs:
 ### Console Output
 ![Console Output 1](Static/Simulation_GUI_1.jpg)
 
-![Console Output 2](Static/Simulation_GUI_2.jpg)
+![Console Output 2](Static/Simulation_GUI_2.png)
 
 
 ### GUI in Action
