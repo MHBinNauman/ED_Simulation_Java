@@ -6,7 +6,7 @@ This project simulates the functioning of a hospital Emergency Department (ED), 
 
 ## Features
 
-- **Triage System**: Categorizes patients based on severity using [Emergency Severity Index](Static/Emergency Severity Index Handbook.pdf) standards.
+- **Triage System**: Categorizes patients based on severity using [Emergency Severity Index](./Static/Emergency%20Severity%20Index%20Handbook.pdf) standards.
 - **Probability Distributions**:
   - Interarrival time: Weibull Distribution.
   - Treatment time: Pearson VI Distribution.
