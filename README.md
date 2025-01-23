@@ -92,6 +92,12 @@ The application provides the following outputs:
 
 ---
 
+## Emergency Department Simulation Report 
+
+The [project proposal](./Static/) and the corresponding [project report](./Static/) for further details.
+
+---
+
 ## Authors
 
 - **Muhammad Hisham Bin Nauman**
