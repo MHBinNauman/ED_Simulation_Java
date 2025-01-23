@@ -94,7 +94,7 @@ The application provides the following outputs:
 
 ## Emergency Department Simulation Report 
 
-The [project proposal](./Static/Complex%20Engineering%20ED%20Simulation%20Problem.pdf) and the corresponding [project report](./Static/ED%20Simulation%20Report.docx) for further details.
+The [project proposal](./Static/Complex%20Engineering%20ED%20Simulation%20Problem.pdf) and the corresponding [project report](./Static/ED%20Simulation%20Report.pdf) for further details.
 
 ---
 
